@@ -1,1 +1,11 @@
-chapter1.txt
+Introduction.txt
+Thanks.txt
+TheEasyWay.txt
+SciGit.txt
+Mendeley.txt
+TheAwesomeWay.txt
+TortoiseGit.txt
+MarkDown.txt
+DropBox.txt
+Trello.txt
+Draftin.txt
