@@ -1,3 +1,4 @@
+{frontmatter}
 # Chapter One
 
 This is an example chapter of a Leanpub book.  To start your book, simply replace the content of this file with your writing, and then go to your book page on Leanpub and click on the Preview tab to make a preview of your book.
